@@ -1,0 +1,15 @@
+# Gem Mining Simulator — importación de prueba de cuatro picos
+
+Codex: En una COPIA LOCAL de Gem Mining Simulator V5, descarga desde la rama art/picos-3d-prototipos-v1 del repositorio Dezva/Gem-Mining-Simulator los cuatro GLB de art/pickaxes/prototypes-v1/.
+
+IMPORTANTE: son prototipos artísticos, NO deben reemplazar modelos actuales sin aprobación.
+
+1. Importa los cuatro GLB en Roblox Studio usando el 3D Importer.
+2. Compara escala, siluetas y materiales con ReplicatedStorage.ArtTemplatesV2.Pickaxe_8, Pickaxe_9, Pickaxe_10 y Pickaxe_Mythic.
+3. Crea copias de prueba separadas, con PrimaryPart/Handle, GripPoint y StrikeTip compatibles con PickaxeVisuals y MiningMotion; los puntos del modelo_manifest.json son referencias, no posiciones definitivas.
+4. Captura vistas frontales, 3/4 y equipadas en R15 y comprueba que el pico se sujeta correctamente y no atraviesa la mano.
+5. Comprueba los materiales al importar y avisa si se pierde el brillo o varían colores.
+6. Devuelve un informe comparativo. No sustituyas automáticamente ArtTemplatesV2, no toques daño, precios, rarezas, IDs de gamepasses o DataStore.
+7. No publiques, no toques el lugar de producción y elimina los objetos temporales de prueba al finalizar.
+
+No es necesario instalar Blender para esta prueba: Roblox Studio puede importar directamente los GLB.
