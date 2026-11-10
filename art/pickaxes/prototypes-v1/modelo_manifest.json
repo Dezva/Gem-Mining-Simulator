@@ -1,0 +1,118 @@
+[
+  {
+    "file": "pick_legendary_concept_v1.glb",
+    "part_count": 24,
+    "triangles": 1032,
+    "bounds": [
+      [
+        -2.05,
+        -2.3684,
+        -0.567
+      ],
+      [
+        2.05,
+        3.022,
+        0.43
+      ]
+    ],
+    "coordinates": "X horizontal, Y vertical, Z depth",
+    "GripPoint": [
+      0,
+      -1.2,
+      0
+    ],
+    "StrikeTip": [
+      2.0,
+      2.25,
+      0
+    ],
+    "prototype": true
+  },
+  {
+    "file": "pick_celestial_concept_v1.glb",
+    "part_count": 48,
+    "triangles": 1584,
+    "bounds": [
+      [
+        -2.1345,
+        -2.3684,
+        -0.586
+      ],
+      [
+        2.1345,
+        2.9262,
+        0.442
+      ]
+    ],
+    "coordinates": "X horizontal, Y vertical, Z depth",
+    "GripPoint": [
+      0,
+      -1.2,
+      0
+    ],
+    "StrikeTip": [
+      2.0,
+      2.25,
+      0
+    ],
+    "prototype": true
+  },
+  {
+    "file": "pick_supreme_concept_v1.glb",
+    "part_count": 31,
+    "triangles": 1336,
+    "bounds": [
+      [
+        -2.477,
+        -2.3684,
+        -0.626
+      ],
+      [
+        2.477,
+        3.06,
+        0.43
+      ]
+    ],
+    "coordinates": "X horizontal, Y vertical, Z depth",
+    "GripPoint": [
+      0,
+      -1.2,
+      0
+    ],
+    "StrikeTip": [
+      2.0,
+      2.25,
+      0
+    ],
+    "prototype": true
+  },
+  {
+    "file": "pick_mythic_concept_v1.glb",
+    "part_count": 41,
+    "triangles": 1504,
+    "bounds": [
+      [
+        -2.634,
+        -2.3684,
+        -0.669
+      ],
+      [
+        2.634,
+        3.288,
+        0.43
+      ]
+    ],
+    "coordinates": "X horizontal, Y vertical, Z depth",
+    "GripPoint": [
+      0,
+      -1.2,
+      0
+    ],
+    "StrikeTip": [
+      2.0,
+      2.25,
+      0
+    ],
+    "prototype": true
+  }
+]
